@@ -1,0 +1,21 @@
+
+.layout {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.actionInput {
+    margin: 10px;
+    padding: 5px;
+}
+
+.actionBtn {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: green;
+}
